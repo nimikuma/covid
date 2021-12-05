@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/covid" mode="merge"/>
+    <filter root="/content/covid" mode="merge"/>
+    <filter root="/content/experience-fragments/covid" mode="merge"/>
+</workspaceFilter>

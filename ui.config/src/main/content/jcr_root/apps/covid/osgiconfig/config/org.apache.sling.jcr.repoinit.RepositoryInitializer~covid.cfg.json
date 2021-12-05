@@ -1,0 +1,10 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/covid",
+        "create path (nt:unstructured) /content/dam/covid/jcr:content",
+        "set properties on /content/dam/covid/jcr:content",
+        "set cq:conf{String} to /conf/covid",
+        "set jcr:title{String} to \"Covid Sites Project\"",
+        "end"
+    ]
+}
